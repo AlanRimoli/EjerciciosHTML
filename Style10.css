@@ -1,0 +1,59 @@
+/* [ Encabezado H1 ] */
+
+h1{
+
+    /* [ Color del encabezado H1 ] */
+    color: teal;
+
+    /* [ Alinear ] */
+    text-align: left;
+}
+
+/* [ Strong ] */
+
+strong{
+
+    color: red;
+
+}
+
+/* [ Destacado ] */
+
+span.destacado{
+
+    color: yellow;
+
+}
+
+/* [ Encabezado H2 ] */
+
+h2{
+
+color: blue;
+
+}
+
+/* [ Acceso ] */
+
+a{
+
+color: red;
+
+}
+
+/* [ Em ] */
+
+em{
+
+    color: blue;
+
+}
+
+/* [ Especial ] */
+
+span.especial{
+
+    color: rgb(103, 0, 199);
+
+}
+

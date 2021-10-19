@@ -1,0 +1,73 @@
+body{
+
+    /* [ Color de fondo ] */
+
+    background-color: darkorange;
+}
+
+    /* [ Encabezado H1 ] */
+
+    h1{
+
+        /* [ Color del encabezado H1 ] */
+        color: rgb(4, 138, 98);
+
+        /* [ Fuente ] */
+        font-family: 'Oswald';
+
+        /* [ Alinear ] */
+        text-align: center;
+    }
+
+    /* [ Encabezado H2 ] */
+
+    h2{
+        /* [ Color de fondo ] */
+        color: rgb(0, 52, 61);
+
+        /* [ Fuente ] */
+        font-family: 'Oswald';
+
+        /* [ Tipo de fuente ] */
+        font-family: cursive;
+
+        /* [ Alinear ] */
+        text-align: center;
+    }
+
+    /* [ Parrafos ] */
+
+    p{
+
+        /* [ Fuente ] */
+        font-family: Arial, Helvetica, sans-serif;
+
+        /* [ Estilo de fuente ] */
+        font-weight: bold;
+
+        /* [ Color de fuente ] */
+        color: rgb(146, 0, 204);
+
+        /* [ Alinear ] */
+        text-align: left;
+        
+    }
+
+    a{
+
+        color: red;
+
+    }
+
+    a:hover{
+
+        background-color: #CC0000;
+        color: #FFF;
+
+    }
+
+    a:visited{
+
+        color: grey;
+
+    }
